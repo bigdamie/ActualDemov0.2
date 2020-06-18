@@ -568,7 +568,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d423f40f099554e83921f73e13d67470, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 8
+  speed: 10
   myRigidbody: {fileID: 6788914007461025495}
   anim: {fileID: 217739220643729721}
   myState: {fileID: 3366632899826920161}
@@ -631,7 +631,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 5396867219220993255}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 1299f37f0bba24da281e31905bcc48ca, type: 3}
   m_Name: 
