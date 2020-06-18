@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 0d70a2688fd95d24cb6f868ffa6b8ff5
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - myNotification: {fileID: 11400000, guid: 87cb9f050a060404cafa8a97871e477b, type: 2}
+  - switchNotification: {fileID: 11400000, guid: f4f3b8767845e1143bdb437416c371d7,
+      type: 2}
+  - secondNotification: {fileID: 11400000, guid: d7376d1d6131adc45b4766b801aa7a3c,
+      type: 2}
+  - left: {fileID: -961728375383096856, guid: 213057f019dc64b61bb3a88006c99c2e, type: 3}
+  - right: {fileID: 6134805739209183595, guid: 213057f019dc64b61bb3a88006c99c2e, type: 3}
+  - spRend: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

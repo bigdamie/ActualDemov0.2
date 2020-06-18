@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 955bbce38d0a3439aa07ab86c29f8d01, type: 3}
+  m_Name: RigbertItem
+  m_EditorClassIdentifier: 
+  itemPrefab: {fileID: 4392861376482901338, guid: 6806b82cff3dac940a62bc86e58cd021,
+    type: 3}
+  myName: 
+  myDescription: Rigbert
+  correctPrice: 500
+  isUsable: 1
+  isUnique: 0
+  numberHeld: 1
+  eventOnUse:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 1473104273308892479, guid: b81aa7284f5654424886275b7b71a995,
+          type: 3}
+        m_MethodName: Play
+        m_Mode: 5
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: Attack Down
+          m_BoolArgument: 0
+        m_CallState: 2
+  otherEvent:
+    m_PersistentCalls:
+      m_Calls: []

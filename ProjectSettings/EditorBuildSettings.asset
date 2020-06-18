@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Shop1.unity
+    guid: ccce8d670dc2c474f84cf4df63d66040
+  - enabled: 1
+    path: Assets/Scenes/ShopWshoppers.unity
+    guid: a3ed9c1a348841547ac2cd26daf0061c
+  - enabled: 1
+    path: Assets/Scenes/OverWorldScene.unity
+    guid: a19b08f1f4da9434eb57ea8908552104
+  - enabled: 1
+    path: Assets/Scenes/DungeonScene.unity
+    guid: 711aa216e03f00846948540c6b7ed904
+  m_configObjects: {}
